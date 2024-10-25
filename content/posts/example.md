@@ -6,6 +6,6 @@ draft = false
 
 Hello from Hugo!
 
-
+This is a test of GitHub Actions using the Hugo deployment. Did it work?
 
 
