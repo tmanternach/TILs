@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://til.trevormanternach.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Trevor Manternach's TIL Site'
 theme = 'terminal'
 
 
