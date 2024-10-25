@@ -4,6 +4,10 @@ title = 'Trevor Manternachs TIL Site'
 theme = 'terminal'
 
 
+[params]
+  centerTheme = true
+
+  
 [languages]
 [languages.en]
   languageName = "English"
@@ -29,4 +33,18 @@ theme = 'terminal'
       logoHomeLink = "/"
 
     [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        
+      [[languages.en.menu.main]]
+        identifier = "main"
+        name = "Main Site"
+        url = "https://trevormanternach.com"
+      
+      [[languages.en.menu.main]]
+        identifier = "rss"
+        name = "RSS"
+        url = "/index.xml"
 
