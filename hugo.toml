@@ -1,0 +1,32 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'terminal'
+
+
+[languages]
+[languages.en]
+  languageName = "English"
+  title = "Trevor Manternach: TIL"
+
+  [languages.en.params]
+    subtitle = "A collection of things I've learned."
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Permalink"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "Trevor Manternach: TIL"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+
