@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://til.trevormanternach.com/posts/</loc>
     <lastmod>2024-10-24T15:32:33-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://til.trevormanternach.com/</loc>
     <lastmod>2024-10-24T15:32:33-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://til.trevormanternach.com/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://til.trevormanternach.com/tags/</loc>
   </url>
 </urlset>

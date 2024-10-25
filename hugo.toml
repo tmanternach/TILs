@@ -1,6 +1,6 @@
 baseURL = 'https://til.trevormanternach.com/'
 languageCode = 'en-us'
-title = 'Trevor Manternach's TIL Site'
+title = 'Trevor Manternachs TIL Site'
 theme = 'terminal'
 
 
