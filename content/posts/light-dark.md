@@ -1,8 +1,7 @@
 +++
 title = "light-dark css property"
 date = "2024-10-26T07:41:10-06:00"
-author = "Trevor"
-description = ""
+description = "An easy way to support dark modes on your site."
 showFullContent = true
 readingTime = false
 hideComments = false
