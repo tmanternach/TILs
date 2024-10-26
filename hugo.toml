@@ -3,9 +3,9 @@ languageCode = 'en-us'
 title = 'Trevor Manternachs TIL Site'
 theme = 'terminal'
 
-
 [params]
   centerTheme = true
+  NewTab = true
 
   
 [languages]
@@ -42,6 +42,8 @@ theme = 'terminal'
         identifier = "main"
         name = "Main Site"
         url = "https://trevormanternach.com"
+      [[languages.en.menu.main.params]]
+        newTab = true
       
       [[languages.en.menu.main]]
         identifier = "rss"
