@@ -369,3 +369,16 @@ hr {
   background: var(--accent);
   height: 2px;
 }
+
+.til-item .post-date {
+  color: color-mix(in srgb,var(--foreground) 50%,transparent);
+  padding-right: 0.5em
+}
+.posts {
+  padding-top:2em;
+  border-top: 1px solid color-mix(in srgb,var(--foreground) 50%,transparent);
+  border-bottom: 1px solid color-mix(in srgb,var(--foreground) 50%,transparent);
+}
+.footer {
+  padding: 0px;
+}
