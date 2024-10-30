@@ -1,5 +1,5 @@
 +++
-title = "Mini Bats Through Tsa"
+title = "Mini Bats Through TSA"
 date = "2024-10-29T09:15:21-06:00"
 description = "Lousville Airport has an exemption to allow small baseball bats on carry-on."
 showFullContent = false
