@@ -370,6 +370,9 @@ hr {
   height: 2px;
 }
 
+.til-item {
+ padding-bottom: 10px; 
+}
 .til-item .post-date {
   color: color-mix(in srgb,var(--foreground) 50%,transparent);
   padding-right: 0.5em
