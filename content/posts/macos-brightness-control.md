@@ -1,5 +1,5 @@
 +++
-title = "Macos Brightness Control"
+title = "macOS Brightness Control"
 date = "2024-12-22T17:53:28-07:00"
 description = "TIL about DisplayBuddy for macOS"
 showFullContent = false
