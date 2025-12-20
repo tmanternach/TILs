@@ -1,5 +1,5 @@
 +++
-title = "Wireguard Postup"
+title = "Wireguard PreUp/PostDown"
 date = "2025-12-20T08:25:31-07:00"
 description = "TIL you can run scripts when Wireguard connects or disconnects"
 showFullContent = false
